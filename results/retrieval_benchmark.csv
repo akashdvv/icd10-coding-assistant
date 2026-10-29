@@ -1,0 +1,13 @@
+system,subset,n,top1,top5,top10,category_top1
+BM25 (words),all,1500,0.234,0.417,0.495,0.51
+BM25 (words),easy,879,0.358,0.612,0.714,0.706
+BM25 (words),hard,621,0.058,0.142,0.185,0.232
+TF-IDF (char n-grams),all,1500,0.239,0.465,0.547,0.527
+TF-IDF (char n-grams),easy,879,0.342,0.637,0.738,0.7
+TF-IDF (char n-grams),hard,621,0.092,0.222,0.275,0.282
+Hybrid,all,1500,0.237,0.437,0.537,0.522
+Hybrid,easy,879,0.356,0.628,0.754,0.702
+Hybrid,hard,621,0.068,0.166,0.23,0.267
+Hybrid + specificity rerank,all,1500,0.259,0.467,0.564,0.538
+Hybrid + specificity rerank,easy,879,0.383,0.67,0.784,0.72
+Hybrid + specificity rerank,hard,621,0.082,0.179,0.253,0.28

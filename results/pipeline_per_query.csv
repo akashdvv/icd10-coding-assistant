@@ -1,0 +1,101 @@
+qid,query,gold,difficulty,retrieval_top1,gold_in_retrieval_top15,rewrite_top1,gold_in_shortlist,llm_selected
+q000,Tuberculous ulceration of vulva,A18.18,hard,N76.6,False,A18.52,False,NONE
+q001,Alder syndrome,D72.0,hard,Q90.9,False,D72.0,True,D72.0
+q002,Holocarboxylase synthetase deficiency,D81.818,hard,E61.0,False,D81.810,True,D81.818
+q003,Purulent dermatitis,L08.0,hard,L30.8,False,L08.0,True,L08.0
+q004,Lymphoma of skin-associated lymphoid tissue [SALT-lymphoma] not having achieved remission,C88.40,easy,C88.40,True,C88.40,True,C88.40
+q005,Instability of joint secondary to removal of joint prosthesis,M96.89,hard,M25.30,False,M25.30,False,M25.30
+q006,Psychogenic paranoid psychosis,F23,hard,F29,True,F29,True,F23
+q007,"Laceration, perforation, tear or chemical damage of cervix following complete or unspecified spontaneous abortion",O03.84,easy,O03.84,True,O03.84,True,O03.84
+q008,Postanal dimple with abscess,L05.01,hard,M71.039,False,M71.039,False,NONE
+q009,Hyperplasia of pancreatic islet beta cells NOS,E16.1,hard,N85.00,True,E16.9,True,E16.1
+q010,Encounter for issue of repeat prescription for spectacles,Z76.0,easy,Z76.0,True,Z76.0,True,Z76.0
+q011,"Pressure ulcer with full thickness skin loss involving damage or necrosis of subcutaneous tissue, sacral region",L89.153,hard,L89.156,True,L89.151,True,L89.153
+q012,Tuberculous mastoiditis,A18.03,hard,A17.0,False,A18.52,True,A18.03
+q013,Mania with mood-incongruent psychotic symptoms,F30.2,hard,F30.2,True,F30.13,True,F30.2
+q014,Malignant neoplasm of pudendum,C51.9,easy,C69.60,False,C44.90,False,NONE
+q015,Muscle phosphofructokinase deficiency,E74.09,hard,E61.1,False,E61.1,True,E74.09
+q016,Acute megakaryoblastic leukemia NOS,C94.20,easy,C94.22,True,C94.20,True,C94.20
+q017,Oculocutaneous albinism ty-neg,E70.320,easy,E70.328,True,E70.328,True,E70.320
+q018,Cheese-washer's lung,J67.8,hard,J67.4,False,J67.4,True,J67.8
+q019,Testicular hypogonadism NOS,E29.1,easy,E29.1,True,E29.1,True,E29.1
+q020,Biochemical pregnancy,O02.81,easy,O00.00,False,O02.89,True,O02.81
+q021,Syphilitic pericarditis,A52.06,easy,I30.1,False,A52.03,True,A52.06
+q022,Rubella meningoencephalitis,B06.01,easy,B06.01,True,B06.01,True,B06.01
+q023,Mandibular pain,R68.84,easy,M25.539,False,M26.609,False,NONE
+q024,Irreducible spigelian hernia without gangrene,K43.6,easy,K43.9,False,K43.9,True,K43.6
+q025,Irritant contact dermatitis related to endotracheal tube,L24.A9,easy,L24.B0,False,L24.B0,False,L24.89
+q026,Congenital aneurysm of pulmonary artery,Q25.79,easy,I28.1,True,Q25.79,True,Q25.79
+q027,Agammaglobulinemia with immunoglobulin-bearing B-lymphocytes,D80.1,hard,C91.12,False,D80.0,True,D80.8
+q028,Cryoglobulinemic vasculitis,D89.1,easy,D89.1,True,D89.1,True,D89.1
+q029,Congenital precerebral aneurysm (nonruptured),Q28.1,easy,I67.1,True,Q28.1,True,Q28.1
+q030,Psychoneurotic personality disorder,F60.89,easy,F60.9,True,F60.9,True,F60.89
+q031,Plasmodium malariae malaria NOS,B52.9,easy,B52.9,True,B52.9,True,B52.9
+q032,Mirror-image atrial arrangement with situs inversus,Q89.3,hard,Q89.3,True,Q89.3,True,Q89.3
+q033,Axenfeld-Rieger syndrome,Q13.81,hard,M05.039,False,Q13.81,True,Q13.81
+q034,Primordial cyst,K09.0,easy,M85.659,False,M85.659,True,K09.0
+q035,X-linked recessive spinocerebellar ataxia,G11.19,hard,E71.528,True,G11.11,True,G11.19
+q036,Osteosclerosis NOS,Q78.2,hard,I70.90,False,M85.88,False,M85.80
+q037,Trichilemmal (proliferating) cyst,L72.12,hard,L72.12,True,L72.12,True,L72.12
+q038,East African sleeping sickness,B56.1,hard,B56.9,True,B56.9,True,B56.1
+q039,Multiple burns NOS,T30.0,easy,T23.099S,False,T30.0,True,T30.0
+q040,Vascular pseudohemophilia,D69.8,hard,I73.89,False,D68.023,False,D68.00
+q041,Hypertensive heart disease and hypertensive chronic kidney disease NOS,I13.10,easy,I11.9,True,I11.9,True,I13.10
+q042,Flammeus Nevus,Q82.5,easy,Q82.5,True,Q82.5,True,Q82.5
+q043,Dermatophytic onychia,B35.1,hard,Z97.8,True,B35.1,True,B35.1
+q044,Rendu-Osler-Weber disease,I78.0,hard,I12.0,False,I78.0,True,I78.0
+q045,Congenital splenomegaly,Q89.09,easy,R16.1,True,Q89.09,True,Q89.09
+q046,Lewy body disease,G31.83,hard,I12.0,False,G31.83,True,G31.83
+q047,Septic thrombophlebitis of intracranial or intraspinal venous sinuses and veins,G08,hard,G08,True,G08,True,G08
+q048,Decreased blood glucose level 2,E16.A2,hard,R73.09,False,R73.9,True,E16.A2
+q049,"Preterm newborn, gestational age 36 weeks, 0 days through 36 weeks, 6 days",P07.39,easy,P07.39,True,P07.39,True,P07.39
+q050,Depressive personality disorder,F34.1,hard,F60.89,False,F60.89,False,NONE
+q051,Ill or disturbed family member,Z63.79,hard,Z63.32,False,Z63.32,False,NONE
+q052,Congenital deformity of chest wall NOS,Q67.8,easy,Q67.8,True,Q67.5,True,Q67.8
+q053,Ovalocytosis (congenital) (hereditary),D58.1,hard,Q82.0,True,D58.1,True,D58.1
+q054,"Unspecified dementia, moderate, with behavioral disturbances such as sleep disturbance, social disinhibition, or sexual disinhibition",F03.B18,hard,F03.B18,True,F03.B18,True,F03.B18
+q055,Tuberculous spondylitis,A18.01,hard,A18.52,False,A18.02,True,A18.01
+q056,Coarctation of aorta (preductal) (postductal),Q25.1,easy,Q25.1,True,Q25.1,True,Q25.1
+q057,Congenital high arched palate,Q38.5,easy,Q38.5,True,Q38.5,True,Q38.5
+q058,Goldblatt's kidney,I70.1,hard,N26.2,False,I15.0,True,I70.1
+q059,White spot lesions [initial caries] on pit and fissure surface of tooth,K02.51,hard,K02.53,True,K02.51,True,K02.51
+q060,Argentinian hemorrhagic fever,A96.0,easy,A96.0,True,A96.0,True,A96.0
+q061,Intussusception or invagination of colon,K56.1,hard,K56.1,True,K56.1,True,K56.1
+q062,Combat fatigue,F43.0,hard,R53.83,False,R53.83,True,F43.0
+q063,Primary cutaneous CD30-positive large T-cell lymphoma NOS,C86.60,easy,C86.60,True,C86.60,True,C86.60
+q064,"Sedative, hypnotic, or anxiolytic-induced anxiety disorder, without use disorder",F13.980,easy,F13.980,True,F13.980,True,F13.980
+q065,Folliculitis of neck,L02.12,easy,L66.2,False,L66.2,True,L02.12
+q066,Sequoiosis,J67.8,hard,M41.9,False,M41.9,True,J67.8
+q067,Primary calpainopathy,G71.032,hard,M19.039,False,G71.8,False,G71.038
+q068,Syphiloma,A52.3,hard,A53.9,False,A52.77,True,A52.79
+q069,"Severe and usually chronic hypothermia associated with a pink flushed appearance, edema and neurological and biochemical abnormalities.",P80.0,hard,Y75.8,True,P80.8,True,P80.0
+q070,Infantile genetic agranulocytosis,D70.0,hard,D70.0,True,D70.0,True,D70.0
+q071,Dentifrice abrasion of teeth,K03.1,easy,K03.1,True,S60.418S,True,K03.1
+q072,Stenosis of aqueduct of Sylvius,Q03.0,easy,Q03.0,True,Q03.0,True,Q03.0
+q073,Infection due to Opisthorchis (felineus)(viverrini),B66.0,hard,O86.21,False,B66.0,True,B66.0
+q074,Peripharyngeal abscess,J39.0,easy,M71.039,False,M71.039,False,NONE
+q075,Contact with and (suspected) exposure to nickel dust,Z77.018,easy,Z20.820,False,Z77.010,True,Z77.018
+q076,"Cocaine induced psychotic disorder, without use disorder",F14.959,easy,F14.959,True,F14.959,True,F14.959
+q077,Hand-Schüller-Christian disease,C96.5,hard,M02.349,False,C96.5,True,C96.5
+q078,Poor gingival margin to tooth restoration,K08.51,easy,K08.51,True,K08.51,True,K08.51
+q079,Acute monoblastic/monocytic leukemia NOS,C93.00,easy,C93.02,True,C93.00,True,C93.00
+q080,Congenital cyst of vulva,Q52.79,easy,Q52.71,True,Q52.79,True,Q52.79
+q081,Adult GM2 gangliosidosis,E75.09,easy,E75.09,True,E75.09,True,E75.09
+q082,Problem with social transplantation,Z60.3,easy,Z60.9,True,Z60.9,True,Z60.3
+q083,"Chronic infantile neurological, cutaneous and articular syndrome [CINCA]",M04.2,hard,E00.0,False,M04.2,True,M04.2
+q084,Vascular EDS (vEDS),Q79.63,hard,I73.89,False,T82.328S,True,Q79.63
+q085,"Midline hernia causing obstruction, without gangrene",K43.6,easy,K43.9,False,K43.9,True,K43.6
+q086,Late walker,R62.0,hard,A52.79,False,R62.50,True,R62.0
+q087,Latent syphilis NOS,A53.0,easy,A53.0,True,A53.0,True,A53.0
+q088,Donovanosis,A58,hard,Z52.29,False,Z52.29,True,A58
+q089,Ulcerative (chronic) pancolitis NOS,K51.00,easy,K51.00,True,K51.018,True,K51.00
+q090,"Overproduction of ACTH, not associated with Cushing's disease",E27.0,hard,E24.8,False,E24.3,False,NONE
+q091,Encounter for preprocedural examination NOS,Z01.818,easy,Z01.818,True,Z01.818,True,Z01.818
+q092,Migraine NOS,G43.909,easy,G43.D1,True,G43.819,True,G43.909
+q093,Primary cutaneous CD30-positive large T-cell lymphoma with failed remission,C86.60,easy,C86.60,True,C86.60,True,C86.60
+q094,Acute monoblastic/monocytic leukemia with failed remission,C93.00,easy,C93.00,True,C93.00,True,C93.00
+q095,"Pressure ulcer with full thickness skin loss involving damage or necrosis of subcutaneous tissue, left elbow",L89.023,hard,L89.026,True,L89.021,True,L89.023
+q096,Carrier of extended-spectrum beta-lactamase producing Enterobacterales,Z22.358,hard,Z22.358,True,Z22.39,True,Z22.358
+q097,Spastic cerebral palsy NOS,G80.1,easy,G80.2,True,G80.1,True,G80.1
+q098,Early-onset cerebellar ataxia with retained tendon reflexes,G11.19,easy,G11.19,True,G11.19,True,G11.19
+q099,Tuberculous Addison's disease,A18.7,hard,A18.17,False,A18.17,False,NONE

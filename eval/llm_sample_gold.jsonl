@@ -1,0 +1,100 @@
+{"query": "Tuberculous ulceration of vulva", "gold": "A18.18", "description": "Tuberculosis of other female genital organs", "difficulty": "hard", "qid": "q000"}
+{"query": "Alder syndrome", "gold": "D72.0", "description": "Genetic anomalies of leukocytes", "difficulty": "hard", "qid": "q001"}
+{"query": "Holocarboxylase synthetase deficiency", "gold": "D81.818", "description": "Other biotin-dependent carboxylase deficiency", "difficulty": "hard", "qid": "q002"}
+{"query": "Purulent dermatitis", "gold": "L08.0", "description": "Pyoderma", "difficulty": "hard", "qid": "q003"}
+{"query": "Lymphoma of skin-associated lymphoid tissue [SALT-lymphoma] not having achieved remission", "gold": "C88.40", "description": "Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue [MALT-lymphoma] not having achieved remission", "difficulty": "easy", "qid": "q004"}
+{"query": "Instability of joint secondary to removal of joint prosthesis", "gold": "M96.89", "description": "Other intraoperative and postprocedural complications and disorders of the musculoskeletal system", "difficulty": "hard", "qid": "q005"}
+{"query": "Psychogenic paranoid psychosis", "gold": "F23", "description": "Brief psychotic disorder", "difficulty": "hard", "qid": "q006"}
+{"query": "Laceration, perforation, tear or chemical damage of cervix following complete or unspecified spontaneous abortion", "gold": "O03.84", "description": "Damage to pelvic organs following complete or unspecified spontaneous abortion", "difficulty": "easy", "qid": "q007"}
+{"query": "Postanal dimple with abscess", "gold": "L05.01", "description": "Pilonidal cyst with abscess", "difficulty": "hard", "qid": "q008"}
+{"query": "Hyperplasia of pancreatic islet beta cells NOS", "gold": "E16.1", "description": "Other hypoglycemia", "difficulty": "hard", "qid": "q009"}
+{"query": "Encounter for issue of repeat prescription for spectacles", "gold": "Z76.0", "description": "Encounter for issue of repeat prescription", "difficulty": "easy", "qid": "q010"}
+{"query": "Pressure ulcer with full thickness skin loss involving damage or necrosis of subcutaneous tissue, sacral region", "gold": "L89.153", "description": "Pressure ulcer of sacral region, stage 3", "difficulty": "hard", "qid": "q011"}
+{"query": "Tuberculous mastoiditis", "gold": "A18.03", "description": "Tuberculosis of other bones", "difficulty": "hard", "qid": "q012"}
+{"query": "Mania with mood-incongruent psychotic symptoms", "gold": "F30.2", "description": "Manic episode, severe with psychotic symptoms", "difficulty": "hard", "qid": "q013"}
+{"query": "Malignant neoplasm of pudendum", "gold": "C51.9", "description": "Malignant neoplasm of vulva, unspecified", "difficulty": "easy", "qid": "q014"}
+{"query": "Muscle phosphofructokinase deficiency", "gold": "E74.09", "description": "Other glycogen storage disease", "difficulty": "hard", "qid": "q015"}
+{"query": "Acute megakaryoblastic leukemia NOS", "gold": "C94.20", "description": "Acute megakaryoblastic leukemia not having achieved remission", "difficulty": "easy", "qid": "q016"}
+{"query": "Oculocutaneous albinism ty-neg", "gold": "E70.320", "description": "Tyrosinase negative oculocutaneous albinism", "difficulty": "easy", "qid": "q017"}
+{"query": "Cheese-washer's lung", "gold": "J67.8", "description": "Hypersensitivity pneumonitis due to other organic dusts", "difficulty": "hard", "qid": "q018"}
+{"query": "Testicular hypogonadism NOS", "gold": "E29.1", "description": "Testicular hypofunction", "difficulty": "easy", "qid": "q019"}
+{"query": "Biochemical pregnancy", "gold": "O02.81", "description": "Inappropriate change in quantitative human chorionic gonadotropin (hCG) in early pregnancy", "difficulty": "easy", "qid": "q020"}
+{"query": "Syphilitic pericarditis", "gold": "A52.06", "description": "Other syphilitic heart involvement", "difficulty": "easy", "qid": "q021"}
+{"query": "Rubella meningoencephalitis", "gold": "B06.01", "description": "Rubella encephalitis", "difficulty": "easy", "qid": "q022"}
+{"query": "Mandibular pain", "gold": "R68.84", "description": "Jaw pain", "difficulty": "easy", "qid": "q023"}
+{"query": "Irreducible spigelian hernia without gangrene", "gold": "K43.6", "description": "Other and unspecified ventral hernia with obstruction, without gangrene", "difficulty": "easy", "qid": "q024"}
+{"query": "Irritant contact dermatitis related to endotracheal tube", "gold": "L24.A9", "description": "Irritant contact dermatitis due friction or contact with other specified body fluids", "difficulty": "easy", "qid": "q025"}
+{"query": "Congenital aneurysm of pulmonary artery", "gold": "Q25.79", "description": "Other congenital malformations of pulmonary artery", "difficulty": "easy", "qid": "q026"}
+{"query": "Agammaglobulinemia with immunoglobulin-bearing B-lymphocytes", "gold": "D80.1", "description": "Nonfamilial hypogammaglobulinemia", "difficulty": "hard", "qid": "q027"}
+{"query": "Cryoglobulinemic vasculitis", "gold": "D89.1", "description": "Cryoglobulinemia", "difficulty": "easy", "qid": "q028"}
+{"query": "Congenital precerebral aneurysm (nonruptured)", "gold": "Q28.1", "description": "Other malformations of precerebral vessels", "difficulty": "easy", "qid": "q029"}
+{"query": "Psychoneurotic personality disorder", "gold": "F60.89", "description": "Other specific personality disorders", "difficulty": "easy", "qid": "q030"}
+{"query": "Plasmodium malariae malaria NOS", "gold": "B52.9", "description": "Plasmodium malariae malaria without complication", "difficulty": "easy", "qid": "q031"}
+{"query": "Mirror-image atrial arrangement with situs inversus", "gold": "Q89.3", "description": "Situs inversus", "difficulty": "hard", "qid": "q032"}
+{"query": "Axenfeld-Rieger syndrome", "gold": "Q13.81", "description": "Rieger anomaly", "difficulty": "hard", "qid": "q033"}
+{"query": "Primordial cyst", "gold": "K09.0", "description": "Developmental odontogenic cysts", "difficulty": "easy", "qid": "q034"}
+{"query": "X-linked recessive spinocerebellar ataxia", "gold": "G11.19", "description": "Other early-onset cerebellar ataxia", "difficulty": "hard", "qid": "q035"}
+{"query": "Osteosclerosis NOS", "gold": "Q78.2", "description": "Osteopetrosis", "difficulty": "hard", "qid": "q036"}
+{"query": "Trichilemmal (proliferating) cyst", "gold": "L72.12", "description": "Trichodermal cyst", "difficulty": "hard", "qid": "q037"}
+{"query": "East African sleeping sickness", "gold": "B56.1", "description": "Rhodesiense trypanosomiasis", "difficulty": "hard", "qid": "q038"}
+{"query": "Multiple burns NOS", "gold": "T30.0", "description": "Burn of unspecified body region, unspecified degree", "difficulty": "easy", "qid": "q039"}
+{"query": "Vascular pseudohemophilia", "gold": "D69.8", "description": "Other specified hemorrhagic conditions", "difficulty": "hard", "qid": "q040"}
+{"query": "Hypertensive heart disease and hypertensive chronic kidney disease NOS", "gold": "I13.10", "description": "Hypertensive heart and chronic kidney disease without heart failure, with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease", "difficulty": "easy", "qid": "q041"}
+{"query": "Flammeus Nevus", "gold": "Q82.5", "description": "Congenital non-neoplastic nevus", "difficulty": "easy", "qid": "q042"}
+{"query": "Dermatophytic onychia", "gold": "B35.1", "description": "Tinea unguium", "difficulty": "hard", "qid": "q043"}
+{"query": "Rendu-Osler-Weber disease", "gold": "I78.0", "description": "Hereditary hemorrhagic telangiectasia", "difficulty": "hard", "qid": "q044"}
+{"query": "Congenital splenomegaly", "gold": "Q89.09", "description": "Congenital malformations of spleen", "difficulty": "easy", "qid": "q045"}
+{"query": "Lewy body disease", "gold": "G31.83", "description": "Neurocognitive disorder with Lewy bodies", "difficulty": "hard", "qid": "q046"}
+{"query": "Septic thrombophlebitis of intracranial or intraspinal venous sinuses and veins", "gold": "G08", "description": "Intracranial and intraspinal phlebitis and thrombophlebitis", "difficulty": "hard", "qid": "q047"}
+{"query": "Decreased blood glucose level 2", "gold": "E16.A2", "description": "Hypoglycemia level 2", "difficulty": "hard", "qid": "q048"}
+{"query": "Preterm newborn, gestational age 36 weeks, 0 days through 36 weeks, 6 days", "gold": "P07.39", "description": "Preterm newborn, gestational age 36 completed weeks", "difficulty": "easy", "qid": "q049"}
+{"query": "Depressive personality disorder", "gold": "F34.1", "description": "Dysthymic disorder", "difficulty": "hard", "qid": "q050"}
+{"query": "Ill or disturbed family member", "gold": "Z63.79", "description": "Other stressful life events affecting family and household", "difficulty": "hard", "qid": "q051"}
+{"query": "Congenital deformity of chest wall NOS", "gold": "Q67.8", "description": "Other congenital deformities of chest", "difficulty": "easy", "qid": "q052"}
+{"query": "Ovalocytosis (congenital) (hereditary)", "gold": "D58.1", "description": "Hereditary elliptocytosis", "difficulty": "hard", "qid": "q053"}
+{"query": "Unspecified dementia, moderate, with behavioral disturbances such as sleep disturbance, social disinhibition, or sexual disinhibition", "gold": "F03.B18", "description": "Unspecified dementia, moderate, with other behavioral disturbance", "difficulty": "hard", "qid": "q054"}
+{"query": "Tuberculous spondylitis", "gold": "A18.01", "description": "Tuberculosis of spine", "difficulty": "hard", "qid": "q055"}
+{"query": "Coarctation of aorta (preductal) (postductal)", "gold": "Q25.1", "description": "Coarctation of aorta", "difficulty": "easy", "qid": "q056"}
+{"query": "Congenital high arched palate", "gold": "Q38.5", "description": "Congenital malformations of palate, not elsewhere classified", "difficulty": "easy", "qid": "q057"}
+{"query": "Goldblatt's kidney", "gold": "I70.1", "description": "Atherosclerosis of renal artery", "difficulty": "hard", "qid": "q058"}
+{"query": "White spot lesions [initial caries] on pit and fissure surface of tooth", "gold": "K02.51", "description": "Dental caries on pit and fissure surface limited to enamel", "difficulty": "hard", "qid": "q059"}
+{"query": "Argentinian hemorrhagic fever", "gold": "A96.0", "description": "Junin hemorrhagic fever", "difficulty": "easy", "qid": "q060"}
+{"query": "Intussusception or invagination of colon", "gold": "K56.1", "description": "Intussusception", "difficulty": "hard", "qid": "q061"}
+{"query": "Combat fatigue", "gold": "F43.0", "description": "Acute stress reaction", "difficulty": "hard", "qid": "q062"}
+{"query": "Primary cutaneous CD30-positive large T-cell lymphoma NOS", "gold": "C86.60", "description": "Primary cutaneous CD30-positive T-cell proliferations not having achieved remission", "difficulty": "easy", "qid": "q063"}
+{"query": "Sedative, hypnotic, or anxiolytic-induced anxiety disorder, without use disorder", "gold": "F13.980", "description": "Sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced anxiety disorder", "difficulty": "easy", "qid": "q064"}
+{"query": "Folliculitis of neck", "gold": "L02.12", "description": "Furuncle of neck", "difficulty": "easy", "qid": "q065"}
+{"query": "Sequoiosis", "gold": "J67.8", "description": "Hypersensitivity pneumonitis due to other organic dusts", "difficulty": "hard", "qid": "q066"}
+{"query": "Primary calpainopathy", "gold": "G71.032", "description": "Autosomal recessive limb girdle muscular dystrophy due to calpain-3 dysfunction", "difficulty": "hard", "qid": "q067"}
+{"query": "Syphiloma", "gold": "A52.3", "description": "Neurosyphilis, unspecified", "difficulty": "hard", "qid": "q068"}
+{"query": "Severe and usually chronic hypothermia associated with a pink flushed appearance, edema and neurological and biochemical abnormalities.", "gold": "P80.0", "description": "Cold injury syndrome", "difficulty": "hard", "qid": "q069"}
+{"query": "Infantile genetic agranulocytosis", "gold": "D70.0", "description": "Congenital agranulocytosis", "difficulty": "hard", "qid": "q070"}
+{"query": "Dentifrice abrasion of teeth", "gold": "K03.1", "description": "Abrasion of teeth", "difficulty": "easy", "qid": "q071"}
+{"query": "Stenosis of aqueduct of Sylvius", "gold": "Q03.0", "description": "Malformations of aqueduct of Sylvius", "difficulty": "easy", "qid": "q072"}
+{"query": "Infection due to Opisthorchis (felineus)(viverrini)", "gold": "B66.0", "description": "Opisthorchiasis", "difficulty": "hard", "qid": "q073"}
+{"query": "Peripharyngeal abscess", "gold": "J39.0", "description": "Retropharyngeal and parapharyngeal abscess", "difficulty": "easy", "qid": "q074"}
+{"query": "Contact with and (suspected) exposure to nickel dust", "gold": "Z77.018", "description": "Contact with and (suspected) exposure to other hazardous metals", "difficulty": "easy", "qid": "q075"}
+{"query": "Cocaine induced psychotic disorder, without use disorder", "gold": "F14.959", "description": "Cocaine use, unspecified with cocaine-induced psychotic disorder, unspecified", "difficulty": "easy", "qid": "q076"}
+{"query": "Hand-Sch\u00fcller-Christian disease", "gold": "C96.5", "description": "Multifocal and unisystemic Langerhans-cell histiocytosis", "difficulty": "hard", "qid": "q077"}
+{"query": "Poor gingival margin to tooth restoration", "gold": "K08.51", "description": "Open restoration margins of tooth", "difficulty": "easy", "qid": "q078"}
+{"query": "Acute monoblastic/monocytic leukemia NOS", "gold": "C93.00", "description": "Acute monoblastic/monocytic leukemia, not having achieved remission", "difficulty": "easy", "qid": "q079"}
+{"query": "Congenital cyst of vulva", "gold": "Q52.79", "description": "Other congenital malformations of vulva", "difficulty": "easy", "qid": "q080"}
+{"query": "Adult GM2 gangliosidosis", "gold": "E75.09", "description": "Other GM2 gangliosidosis", "difficulty": "easy", "qid": "q081"}
+{"query": "Problem with social transplantation", "gold": "Z60.3", "description": "Acculturation difficulty", "difficulty": "easy", "qid": "q082"}
+{"query": "Chronic infantile neurological, cutaneous and articular syndrome [CINCA]", "gold": "M04.2", "description": "Cryopyrin-associated periodic syndromes", "difficulty": "hard", "qid": "q083"}
+{"query": "Vascular EDS (vEDS)", "gold": "Q79.63", "description": "Vascular Ehlers-Danlos syndrome", "difficulty": "hard", "qid": "q084"}
+{"query": "Midline hernia causing obstruction, without gangrene", "gold": "K43.6", "description": "Other and unspecified ventral hernia with obstruction, without gangrene", "difficulty": "easy", "qid": "q085"}
+{"query": "Late walker", "gold": "R62.0", "description": "Delayed milestone in childhood", "difficulty": "hard", "qid": "q086"}
+{"query": "Latent syphilis NOS", "gold": "A53.0", "description": "Latent syphilis, unspecified as early or late", "difficulty": "easy", "qid": "q087"}
+{"query": "Donovanosis", "gold": "A58", "description": "Granuloma inguinale", "difficulty": "hard", "qid": "q088"}
+{"query": "Ulcerative (chronic) pancolitis NOS", "gold": "K51.00", "description": "Ulcerative (chronic) pancolitis without complications", "difficulty": "easy", "qid": "q089"}
+{"query": "Overproduction of ACTH, not associated with Cushing's disease", "gold": "E27.0", "description": "Other adrenocortical overactivity", "difficulty": "hard", "qid": "q090"}
+{"query": "Encounter for preprocedural examination NOS", "gold": "Z01.818", "description": "Encounter for other preprocedural examination", "difficulty": "easy", "qid": "q091"}
+{"query": "Migraine NOS", "gold": "G43.909", "description": "Migraine, unspecified, not intractable, without status migrainosus", "difficulty": "easy", "qid": "q092"}
+{"query": "Primary cutaneous CD30-positive large T-cell lymphoma with failed remission", "gold": "C86.60", "description": "Primary cutaneous CD30-positive T-cell proliferations not having achieved remission", "difficulty": "easy", "qid": "q093"}
+{"query": "Acute monoblastic/monocytic leukemia with failed remission", "gold": "C93.00", "description": "Acute monoblastic/monocytic leukemia, not having achieved remission", "difficulty": "easy", "qid": "q094"}
+{"query": "Pressure ulcer with full thickness skin loss involving damage or necrosis of subcutaneous tissue, left elbow", "gold": "L89.023", "description": "Pressure ulcer of left elbow, stage 3", "difficulty": "hard", "qid": "q095"}
+{"query": "Carrier of extended-spectrum beta-lactamase producing Enterobacterales", "gold": "Z22.358", "description": "Carrier of other Enterobacterales", "difficulty": "hard", "qid": "q096"}
+{"query": "Spastic cerebral palsy NOS", "gold": "G80.1", "description": "Spastic diplegic cerebral palsy", "difficulty": "easy", "qid": "q097"}
+{"query": "Early-onset cerebellar ataxia with retained tendon reflexes", "gold": "G11.19", "description": "Other early-onset cerebellar ataxia", "difficulty": "easy", "qid": "q098"}
+{"query": "Tuberculous Addison's disease", "gold": "A18.7", "description": "Tuberculosis of adrenal glands", "difficulty": "hard", "qid": "q099"}

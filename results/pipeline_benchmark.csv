@@ -1,0 +1,4 @@
+subset,n,retrieval_only_top1,retrieval_only_recall15,with_rewrite_top1,with_rewrite_recall15,full_pipeline_accuracy,auto_coded_share,precision_when_auto_coded,category_accuracy_when_auto_coded
+all,100,0.34,0.56,0.48,0.86,0.84,0.91,0.923,0.967
+easy,50,0.52,0.76,0.62,0.92,0.92,0.94,0.979,1.0
+hard,50,0.16,0.36,0.34,0.8,0.76,0.88,0.864,0.932
